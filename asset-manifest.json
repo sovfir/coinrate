@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/coinrate/static/css/main.272d3826.css",
-    "main.js": "/coinrate/static/js/main.edbb0963.js",
+    "main.js": "/coinrate/static/js/main.7e53343a.js",
     "static/media/wall.jpg": "/coinrate/static/media/wall.9dbf5ffc01b1f587342a.jpg",
     "index.html": "/coinrate/index.html",
     "main.272d3826.css.map": "/coinrate/static/css/main.272d3826.css.map",
-    "main.edbb0963.js.map": "/coinrate/static/js/main.edbb0963.js.map"
+    "main.7e53343a.js.map": "/coinrate/static/js/main.7e53343a.js.map"
   },
   "entrypoints": [
     "static/css/main.272d3826.css",
-    "static/js/main.edbb0963.js"
+    "static/js/main.7e53343a.js"
   ]
 }
